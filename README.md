@@ -1,0 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![HuaweiCloud](https://img.shields.io/badge/HCIE-C30D23?style=flat&logo=huawei&logoColor=white)
+  ![CCIE](https://img.shields.io/badge/CCIE-1BA0D7?style=flat&logo=cisco&logoColor=white)
+  ![IELTS](https://img.shields.io/badge/IELTS-7.0-1F3A5F?style=flat&logo=google-scholar&logoColor=white)
